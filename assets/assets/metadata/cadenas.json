@@ -1,0 +1,444 @@
+{
+  "canales": [
+    {
+      "id": "1",
+      "nombre": "AUTOSERVICIOS",
+      "cadenas": [
+        {
+          "id": "1",
+          "nombre": "EL ROSADO",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "HYPERMARKET LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "HYPER DORADO"
+                },
+                {
+                  "id": "2",
+                  "nombre": "HYPER NORTE"
+                },
+                {
+                  "id": "3",
+                  "nombre": "HYPER COSTA"
+                },
+                {
+                  "id": "4",
+                  "nombre": "HYPER SUR"
+                },
+                {
+                  "id": "5",
+                  "nombre": "RIOCENTRO CEIBOS"
+                },
+                {
+                  "id": "6",
+                  "nombre": "HIPER VIA DAULE"
+                },
+                {
+                  "id": "7",
+                  "nombre": "HIPER 6 DE DICIEMBRE"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "HYPERMARKET MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "HIPER MILAGRO"
+                },
+                {
+                  "id": "2",
+                  "nombre": "HIPER BABAHOYO"
+                },
+                {
+                  "id": "3",
+                  "nombre": "HIPER BALLENITA"
+                },
+                {
+                  "id": "4",
+                  "nombre": "HIPER BAHIA"
+                },
+                {
+                  "id": "5",
+                  "nombre": "HIPER PRENSA"
+                },
+                {
+                  "id": "6",
+                  "nombre": "HIPER ELOY ALFARO"
+                },
+                {
+                  "id": "7",
+                  "nombre": "HIPER PUNTILLA"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "nombre": "MI COMISARIATO LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "COMI CENTRO"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "nombre": "MI COMISARIATO MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "COMI YAGUACHI"
+                },
+                {
+                  "id": "2",
+                  "nombre": "MICO JIPIJAPA"
+                },
+                {
+                  "id": "3",
+                  "nombre": "MICO AMERICA"
+                },
+                {
+                  "id": "4",
+                  "nombre": "COMI ALBORADA"
+                },
+                {
+                  "id": "5",
+                  "nombre": "COMI PLAZA QUIL"
+                },
+                {
+                  "id": "6",
+                  "nombre": "COMI GARZOTA"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "nombre": "MI COMISARIATO SMALL",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "MICO MANTA JUNIOR"
+                },
+                {
+                  "id": "2",
+                  "nombre": "COMI CALIFORNIA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "nombre": "LA FAVORITA",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "HYPERMARKET LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "MEGAMAXI SCALA"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "HYPERMARKET MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "SUPERMAXI BOSQUE"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "nombre": "MI COMISARIATO LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "GRAN AKI SOLANDA"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "nombre": "MI COMISARIATO MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "SUPER AKI MUCHO LOTE"
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "nombre": "MI COMISARIATO SMALL",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "AKI"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "nombre": "MI COMISARIATO SMALL",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "AKI SUPER DESPENSA MACHALA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "nombre": "TIA",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "HYPERMARKET LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "PLAZA TIA - LA JOYA"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "HYPERMARKET MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "TIA"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "nombre": "MI COMISARIATO LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "TIA EXPRESS"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "nombre": "MI COMISARIATO MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "MAS AHORRO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "nombre": "MSM",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "HYPERMARKET LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "SANTA MARIA - CONDADO"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "HYPERMARKET MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "SANTA MARIA - LA LUZ"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "nombre": "MI COMISARIATO LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "SANTA MARIA - SANTA RITA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "nombre": "CORAL",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "HYPERMARKET LARGE",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "CORAL - SAMBORONDON"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "HYPERMARKET MEDIUM",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "CORAL - LA Y"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nombre": "FARMACIAS",
+      "cadenas": [
+        {
+          "id": "1",
+          "nombre": "PHARMACYS",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "AUTOSERVICIO",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "PHARMACYS URDESA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "nombre": "CRUZ AZUL",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "AUTOSERVICIO",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "AUTOSERVICIO"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "COUNTER",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "COUNTER"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "nombre": "FYBECA",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "AUTOSERVICIO",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "FYBECA BATAN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "nombre": "SANA SANA",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "AUTOSERVICIO",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "SANA SANA MADRID"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "nombre": "COUNTER",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "COUNTER"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "nombre": "MEDICITY",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "AUTOSERVICIO",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "MEDICITY PLAZA DE TOROS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "nombre": "ECONOMICAS",
+          "formatos": [
+            {
+              "id": "1",
+              "nombre": "AUTOSERVICIO",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "ECONOMICAS EL QUINCHE"
+                }
+              ]
+            },
+            {
+              "id": "1",
+              "nombre": "COUNTER",
+              "locales": [
+                {
+                  "id": "1",
+                  "nombre": "COUNTER"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
